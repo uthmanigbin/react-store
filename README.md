@@ -1,5 +1,5 @@
-# ChocoStore – React online store
-A complete e-commerce Project, employing the lastest MERN Stack technologies.
+# WOK & ROLL – React online store
+Welcome to WOK & ROLL a complete e-commerce Project, employing the lastest MERN Stack technologies, built for fun.
 
 ## Built With
 
@@ -9,7 +9,7 @@ A complete e-commerce Project, employing the lastest MERN Stack technologies.
 
 We all know how this goes so clone the Project to get a local copy on your machine. Install dependencies and last but not least use `npm start` to run the app in development mode, you can find it on port 3000.
 
-### running a differrent way
+## Want to do more...
 
 ### `npm test`
 
